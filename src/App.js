@@ -17,18 +17,6 @@ import Cronograma from './Views/Menu/Cronograma';
 
 function App() {
   const [user, setUser] = useState(null);
-  const users = {
-    admin: {
-      username: 'admin',
-      password: 'admin123',
-      role: 'admin',
-    },
-    user: {
-      username: 'usuario',
-      password: 'usuario123',
-      role: 'user',
-    },
-  };
 
   const handleLogin = (username, password, role) => {
     // resto del código
