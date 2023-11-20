@@ -1,0 +1,79 @@
+{
+    "rendimientoYOptimizacion": {
+      "titulo": "Rendimiento y Optimización",
+      "descripcion": "Datos sobre el rendimiento del software (tiempos de respuesta, latencia, carga, etc.).",
+      "detalles": [
+        {
+          "categoria": "Tiempos de Respuesta",
+          "items": [
+            {
+              "id": "login",
+              "nombre": "Inicio de Sesión",
+              "descripcion": "Actualmente, el tiempo promedio requerido para iniciar sesión en el portal es de 3 segundos."
+            },
+            {
+              "id": "mainPageLoad",
+              "nombre": "Carga de Página Principal",
+              "descripcion": "La página principal, que contiene las noticias y anuncios, tarda un promedio de 4 segundos en cargarse completamente."
+            },
+            {
+              "id": "sectionAccess",
+              "nombre": "Acceso a Secciones Específicas",
+              "descripcion": "Acceder a secciones como horarios, calificaciones o perfil del estudiante tiene un tiempo de respuesta promedio de 2.5 segundos."
+            }
+          ]
+        },
+        {
+          "categoria": "Latencia",
+          "descripcion": "Tiene un promedio actual de 60 milisegundos."
+        },
+        {
+          "categoria": "Carga del Servidor",
+          "descripcion": "En horas pico, cuando la mayoría de los estudiantes acceden al portal (por ejemplo, durante periodos de inscripción), el servidor opera al 80% de su capacidad."
+        },
+        {
+          "categoria": "Estrategias de Optimización Implementadas",
+          "items": [
+            {
+              "id": "dataCompression",
+              "nombre": "Compresión de Datos",
+              "descripcion": "Se ha implementado la compresión de datos para reducir el tamaño de la información transmitida, lo que acelera los tiempos de carga."
+            },
+            {
+              "id": "lazyLoading",
+              "nombre": "Carga Diferida",
+              "descripcion": "Las imágenes y otros elementos multimedia solo se cargan cuando están en el punto de vista del usuario, mejorando la velocidad de carga inicial."
+            },
+            {
+              "id": "imageOptimization",
+              "nombre": "Optimización de Imágenes",
+              "descripcion": "Se han reducido los tamaños de las imágenes sin comprometer significativamente su calidad, lo que disminuye el tiempo de carga."
+            },
+            {
+              "id": "caching",
+              "nombre": "Cacheado",
+              "descripcion": "Se utilizan técnicas de cacheado para almacenar temporalmente datos que se utilizan con frecuencia, reduciendo la necesidad de solicitarlos repetidamente al servidor."
+            }
+          ]
+        },
+        {
+          "categoria": "Resultados Post-Optimización",
+          "items": [
+            {
+              "id": "responseImprovement",
+              "descripcion": "Tras implementar las estrategias de optimización, se ha observado una mejora del 25% en los tiempos de respuesta generales del portal."
+            },
+            {
+              "id": "latencyReduction",
+              "descripcion": "La latencia se ha reducido en un 15%, mejorando la interactividad y la experiencia del usuario."
+            },
+            {
+              "id": "serverLoadReduction",
+              "descripcion": "Durante las horas pico, la carga del servidor ha disminuido al 70%, lo que indica una gestión más eficiente de los recursos."
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

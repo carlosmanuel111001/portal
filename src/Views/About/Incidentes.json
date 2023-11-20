@@ -1,0 +1,35 @@
+{
+    "incidentes": [
+      {
+        "id": 1,
+        "titulo": "Incidentes y Problemas",
+        "descripcion": "Registros de incidentes, problemas y errores encontrados durante la auditoría."
+      },
+      {
+        "id": 2,
+        "titulo": "Hallazgo: Rendimiento y Velocidad",
+        "descripcion": "Los tiempos de carga y la velocidad del sistema podrían optimizarse para una experiencia más rápida y eficiente."
+      },
+      {
+        "id": 3,
+        "titulo": "Hallazgo: Cambio de contraseña",
+        "descripcion": "Los usuarios encuentran dificultades al intentar cambiar su contraseña en el portal estudiantil, lo que puede resultar en problemas de acceso y seguridad de la cuenta."
+      },
+      {
+        "id": 4,
+        "titulo": "Hallazgo: Error de Carga de Menú",
+        "descripcion": "Error al cargar los menús en el portal, causando inconvenientes en la navegación."
+      },
+      {
+        "id": 5,
+        "titulo": "Hallazgo: Complejidad en Solicitud de Beca para Personas con Discapacidad",
+        "descripcion": "El proceso de solicitud de becas en el portal excluye a personas con discapacidad debido a su falta de accesibilidad y complejidad."
+      },
+      {
+        "id": 6,
+        "titulo": "Hallazgo: Búsqueda ineficaz en la biblioteca digital del portal estudiantil",
+        "descripcion": "La búsqueda en la biblioteca digital del portal estudiantil es ineficaz, ofreciendo resultados imprecisos y poco útiles, lo que dificulta a los usuarios encontrar información específica de manera eficiente y afecta su experiencia de aprendizaje."
+      }
+    ]
+  }
+  

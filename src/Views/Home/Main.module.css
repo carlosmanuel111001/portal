@@ -1,0 +1,97 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  font-family: 'Segoe UI', Arial, sans-serif; /* Fuente moderna y legible */
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.15); /* Sombra más suave */
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+  
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #3498db; /* Azul suave para un aspecto profesional */
+  color: #f5f6fa;
+  padding: 20px;
+  border-radius: 10px 10px 0 0;
+  font-size: 28px; /* Tamaño ajustado para mejorar la lectura */
+  margin-bottom: 20px;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2); /* Sombra de texto más sutil */
+}
+
+  .menuIconContainer {
+    display: flex;
+    align-items: center;
+  }
+  
+  .menuIcon {
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
+  .content {
+    padding: 20px;
+  }
+  
+  .description {
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 20px; /* Espacio adicional arriba para separación visual */
+  }
+  
+  .button {
+    flex: 1;
+    margin: 10px;
+    padding: 15px; /* Ajuste de padding para mejor ergonomía */
+    background-color: #2980b9; /* Un tono más oscuro para mayor contraste */
+    color: #f5f6fa;
+    border-radius: 5px; /* Bordes menos redondeados para un aspecto moderno */
+    cursor: pointer;
+    font-size: 18px; /* Tamaño de fuente ajustado para mejor legibilidad */
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2); /* Sombra sutil para profundidad */
+  }
+  
+  .button:hover {
+    background-color: #3498db; /* Cambio de color al pasar el ratón */
+    transform: translateY(-2px); /* Efecto de elevación sutil al pasar el ratón */
+  }
+  
+  .topMenu {
+    display: flex;
+    justify-content: center;
+    background-color: #2c3e50; /* Fondo oscuro para contraste */
+    padding: 10px 0;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .menuItem {
+    text-decoration: none;
+    color: #ecf0f1;
+    font-size: 18px;
+    margin: 0 15px; /* Margen ajustado para espaciado uniforme */
+    padding: 8px 12px; /* Padding ajustado para mejor tacto */
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s, transform 0.2s;
+    font-weight: bold;
+  }
+  
+  .menuItem:hover {
+    background-color: #3498db;
+    color: #f5f6fa;
+    transform: translateY(-2px); /* Efecto de elevación al pasar el ratón */
+  }

@@ -1,0 +1,110 @@
+/* Estilos Generales */
+body {
+    font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+    background-color: #f4f4f4; /* Color de fondo suave */
+    margin: 0;
+    padding: 20px;
+  }
+  
+  .container {
+    max-width: 1000px; /* Ajusta según tu preferencia */
+    margin: 0 auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1, h2, h3 {
+    color: #2c3e50; /* Color oscuro para títulos */
+  }
+  
+  h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    border-bottom: 2px solid #3498db; /* Línea debajo de los subtítulos para destacar */
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+  }
+  
+  h3 {
+    font-size: 20px;
+    margin-top: 20px; /* Espacio antes de los títulos de sección */
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style: inside square; /* Estilo de lista cuadrada y dentro del margen */
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
+  /* Mejoras para la lista de requisitos para diferenciar los tipos */
+  ul.requisitos {
+    padding-left: 20px; /* Espacio a la izquierda para la lista */
+  }
+  
+  ul.requisitos li {
+    font-weight: bold; /* Texto en negrita para los ítems de la lista */
+  }
+  
+  ul.requisitos li span {
+    font-weight: normal; /* Texto normal para las descripciones */
+  }
+  
+  /* Estilos para las listas anidadas */
+  ul.requisitos li ul {
+    list-style-type: circle; /* Estilo de lista circular para sublistas */
+    margin-top: 5px;
+  }
+  
+  ul.requisitos li ul li {
+    font-weight: normal;
+  }
+  
+  /* Estilos para botones o links de acción, si los hay */
+  .btn {
+    display: inline-block;
+    background: #3498db;
+    color: #fff;
+    padding: 10px 15px;
+    margin: 5px 0;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+  }
+  
+  .btn:hover {
+    background: #2980b9;
+  }
+  
+  /* Media queries para diseño responsivo */
+  @media (max-width: 768px) {
+    .container {
+      width: 95%;
+      padding: 10px;
+    }
+  
+    h1 {
+      font-size: 24px; /* Tamaño más pequeño para títulos en dispositivos móviles */
+    }
+  
+    h2 {
+      font-size: 22px;
+    }
+  
+    h3 {
+      font-size: 18px;
+    }
+  }
+  

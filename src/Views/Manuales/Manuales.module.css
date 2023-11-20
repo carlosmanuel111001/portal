@@ -1,0 +1,76 @@
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 40px;
+    text-align: center;
+    font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    background-color: #ffffff;
+    overflow: hidden;
+  }
+  
+  .header {
+    background-color: #4A90E2;
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 40px;
+  }
+  
+  .menuIconContainer {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .menuIcon {
+    width: 30px;
+    height: 30px;
+    margin-right: 15px;
+  }
+  
+  .listaManuales {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .enlaceManual {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 180px;
+    margin: 10px;
+    padding: 20px;
+    background-color: #4A90E2;
+    color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+    text-decoration: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+  }
+  
+  .enlaceManualIcon {
+    margin-bottom: 10px;
+    width: 60px;
+    height: 60px;
+  }
+  
+  .enlaceManual:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  }
+  
+  .manualTitle {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  

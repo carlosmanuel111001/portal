@@ -1,0 +1,203 @@
+{
+    "manuales": [
+      {
+        "id": "biblioteca",
+        "titulo": "Manual para el Módulo de Biblioteca",
+        "secciones": [
+          {
+            "tipo": "imagen",
+            "src": "/logo.jpg"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "1. Consulta Bibliográfica"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "En el menú \"Servicios Bibliotecarios\" => \"Consulta Bibliográfica\", se muestra la siguiente pantalla. Donde tendremos la opción de hacer nuestras consultas bibliográficas de los diferentes títulos que se encuentran en las diferentes unidades de información"
+          },
+          {
+            "tipo": "imagen",
+            "src": "/39.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "• En la opción de consultas bibliográficas \"Búsqueda Rápida\" que es una búsqueda de una palabra clave de los títulos."
+          },
+          {
+            "tipo": "texto",
+            "contenido": "• En la opción de consultas bibliográficas \"Búsqueda Avanzada\" donde tendremos varios filtros de búsqueda que nos permitirán realizar una búsqueda más exacta."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/40.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "1.1 Búsqueda Rápida"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Seleccionamos la unidad de información"
+          },
+          {
+            "tipo": "imagen",
+            "src": "/41.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Ingresamos la palabra clave a buscar. Clic en el botón \"Buscar\""
+          },
+          {
+            "tipo": "imagen",
+            "src": "/42.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "1.2 Búsqueda Avanzada"
+          },
+          {
+            "tipo": "imagen",
+            "src": "/43.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Debido a que los registros de Títulos Bibliográficos poseen varios campos de información, el buscador en modo avanzado permite filtrar por la mayoría de ellos. Una búsqueda por Código de Clasificación es exacta, y de encontrarse un registro coincidente debería de ser único en la lista de resultados de búsqueda."
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Al usar cualquiera de los 2 tipos de búsqueda y damos clic al botón \"Buscar\", nos arrojará los resultados encontrados a como se muestra en la siguiente imagen."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/44.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Esta opción, permite ver los detalles del título."
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Aquí agregamos el título a una cesta, donde luego de agregar los títulos para realizar el préstamo, daremos clic al siguiente enlace, para realizar el préstamo."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/45.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Nos desplegará una opción para solicitar el préstamo, dando clic al botón siguiente."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/46.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Nos redireccionará a la siguiente pantalla:"
+          },
+          {
+            "tipo": "imagen",
+            "src": "/47.jpg"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Seleccionamos el tipo de préstamo a realizar y nos desplegará en la pantalla los datos del solicitante y las opciones de agregar más títulos al préstamo"
+          },
+          {
+            "tipo": "imagen",
+            "src": "/48.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "1. Botón que nos permite agregar más títulos al préstamo"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "2. Seleccionamos el número de copia del título agregado."
+          },
+          {
+            "tipo": "texto",
+            "contenido": "3. Botón que nos permite eliminar un título agregado al préstamo."
+          },
+          {
+            "tipo": "texto",
+            "contenido": "4. Botón que nos permite guardar la solicitud del préstamo"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Al dar clic al botón “Guardar Solicitud” nos mostrará la siguiente ventana de confirmación para guardar el préstamo."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/49.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Damos clic al botón \"Si, Guardar\" para guardar la solicitud o \"Cancelar\" si deseamos cancelar el proceso. Al guardar la solicitud de préstamo nos mostrará la siguiente pantalla con los datos de la solicitud de préstamo."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/50.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Para hacer efectivo el Préstamo diríjase a la Unidad de Información correspondiente y presente el Número de Préstamo o bien su Número de Carné, INSS o Cédula de Identidad."
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Imprimir Solicitud de Préstamo"
+          },
+          {
+            "tipo": "imagen",
+            "src": "/51.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Nos cargará el siguiente reporte con los datos de la solicitud de préstamo"
+          },
+          {
+            "tipo": "imagen",
+            "src": "/52.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Editar Solicitud de Préstamo"
+          },
+          {
+            "tipo": "imagen",
+            "src": "/53.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Al dar clic en el botón indicado, nos cargará la pantalla siguiente donde editaremos los campos necesarios y disponibles."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/54.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "• Nos permite cambiar el tipo de préstamo."
+          },
+          {
+            "tipo": "texto",
+            "contenido": "• Botón que nos permite agregar más títulos al préstamo."
+          },
+          {
+            "tipo": "texto",
+            "contenido": "• Cambiar o seleccionar el número de copia del título."
+          },
+          {
+            "tipo": "texto",
+            "contenido": "• Eliminar el título agregado."
+          },
+          {
+            "tipo": "texto",
+            "contenido": "• Guardar nuevamente la solicitud del préstamo."
+          }
+        ]
+      }
+    ]
+  }
+  

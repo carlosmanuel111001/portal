@@ -1,0 +1,63 @@
+{
+    "titulo": "Requisitos y Especificaciones",
+    "introduccion": "Requisitos funcionales y no funcionales del software.",
+    "requisitosFuncionales": {
+      "titulo": "Requisitos Funcionales (RF)",
+      "descripcion": "Estos definen las funciones que el software debe ser capaz de realizar desde el punto de vista del usuario.",
+      "items": [
+        {
+          "id": "RF1",
+          "descripcion": "El usuario debe poder iniciar sesión en el portal desde cualquier navegador web."
+        },
+        {
+          "id": "RF2",
+          "descripcion": "El usuario debe poder navegar y utilizar todas las funciones del portal desde dispositivos móviles."
+        },
+        {
+          "id": "RF3",
+          "descripcion": "El usuario debe poder descargar documentos y archivos desde el portal."
+        },
+        {
+          "id": "RF4",
+          "descripcion": "El usuario debe recibir notificaciones en tiempo real, tanto en la versión de escritorio como en la móvil."
+        }
+      ]
+    },
+    "requisitosNoFuncionales": {
+      "titulo": "Requisitos No Funcionales (RNF)",
+      "descripcion": "Estos definen las características o cualidades que el software debe tener.",
+      "items": [
+        {
+          "id": "RNF1",
+          "subtitulo": "Compatibilidad",
+          "descripcion": "El portal debe ser compatible con los navegadores más populares: Google Chrome, Mozilla Firefox, Safari y Microsoft Edge. Debe ser compatible con sistemas operativos móviles: Android e iOS."
+        },
+        {
+          "id": "RNF2",
+          "subtitulo": "Rendimiento",
+          "descripcion": "El portal debe cargar en menos de 5 segundos en una conexión de banda ancha. Debe ser responsivo y adaptarse a diferentes tamaños de pantalla."
+        },
+        {
+            "id": "RNF3",
+            "subtitulo": "Requisitos de Almacenamiento",
+            "descripcion": "Para navegación básica, el usuario debe tener al menos 100MB de espacio libre en su dispositivo. Para descargar y almacenar documentos, se recomienda al menos 1GB de espacio libre."
+          },
+          {
+            "id": "RNF4",
+            "subtitulo": "Conectividad",
+            "descripcion": "Se recomienda una conexión a Internet de al menos 5 Mbps para una experiencia fluida. El portal debe funcionar en conexiones más lentas, pero algunas funciones, como la descarga de archivos grandes, pueden verse afectadas."
+          },
+          {
+            "id": "RNF5",
+            "subtitulo": "Interfaz de Usuario",
+            "descripcion": "La interfaz debe ser intuitiva y fácil de usar tanto en dispositivos de escritorio como móviles. Debe contar con un diseño responsivo que se adapte a diferentes tamaños y resoluciones de pantalla."
+          },
+          {
+            "id": "RNF6",
+            "subtitulo": "Accesibilidad",
+            "descripcion": "El portal debe cumplir con las normas de accesibilidad web, permitiendo su uso por parte de personas con discapacidades."
+          }
+      ]
+    }
+  }
+  

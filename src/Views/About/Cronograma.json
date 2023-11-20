@@ -1,0 +1,96 @@
+{
+    "actividades": [
+      {
+        "actividad": "Visita Guiada",
+        "responsables": ["Greydi Morales", "Blanca Navarro", "Carlos Fuentes"],
+        "fechaInicial": "26/09/2023",
+        "fechaFinal": "26/09/2023",
+        "avance": "100%"
+      },
+      {
+        "actividad": "Requisitos Funcionales",
+        "responsables": ["Greydi Morales"],
+        "fechaInicial": "10/10/2023",
+        "fechaFinal": "10/10/2023",
+        "avance": "100%"
+      },
+      {
+        "actividad": "Requisitos No funcionales",
+        "responsables": ["Greydi Morales"],
+        "fechaInicial": "10/10/2023",
+        "fechaFinal": "10/10/2023",
+        "avance": "100%"
+      },
+      {
+        "actividad": "Rendimientos",
+        "responsables": ["Blanca Navarro"],
+        "fechaInicial": "10/10/2023",
+        "fechaFinal": "10/10/2023",
+        "avance": "100%"
+      },
+      {
+        "actividad": "Incidentes",
+        "responsables": ["Carlos Fuentes"],
+        "fechaInicial": "10/10/2023",
+        "fechaFinal": "10/10/2023",
+        "avance": "100%"
+      },
+      {
+        "actividad": "Inicio de página web",
+        "responsables": ["Carlos Fuentes"],
+        "fechaInicial": "14/10/2023",
+        "fechaFinal": "19/11/2023",
+        "avance": "10%"
+      },
+      {
+        "actividad": "Diseño de la interfaz",
+        "responsables": ["Greydi Morales"],
+        "fechaInicial": "18/10/2023",
+        "fechaFinal": "24/10/2023",
+        "avance": "100%"
+      },
+      {
+        "actividad": "Manual de ayuda",
+        "responsables": ["Carlos Fuentes"],
+        "fechaInicial": "07/11/2023",
+        "fechaFinal": "07/11/2023",
+        "avance": "100%"
+      },
+      {
+        "actividad": "Manual Biblioteca",
+        "responsables": ["Greydi Morales"],
+        "fechaInicial": "07/11/2023",
+        "fechaFinal": "07/11/2023",
+        "avance": "100%"
+      },
+      {
+        "actividad": "Manual de navegación Rápida",
+        "responsables": ["Carlos Fuentes"],
+        "fechaInicial": "07/11/2023",
+        "fechaFinal": "07/11/2023",
+        "avance": "100%"
+      },
+      {
+        "actividad": "Manual de Evaluación",
+        "responsables": ["Blanca Navarro"],
+        "fechaInicial": "07/11/2023",
+        "fechaFinal": "07/11/2023",
+        "avance": "100%"
+      },
+      {
+        "actividad": "Manual Técnico",
+        "responsables": ["Blanca Navarro"],
+        "fechaInicial": "08/11/2023",
+        "fechaFinal": "17/11/2023",
+        "avance": "100%"
+      },
+      {
+        "actividad": "Página web Finalizada",
+        "responsables": ["Blanca Navarro", "Carlos Fuentes", "Greydi Morales"],
+        "fechaInicial": "19/11/2023",
+        "fechaFinal": "19/11/2023",
+        "avance": "100%"
+      }
+    ]
+  }
+  

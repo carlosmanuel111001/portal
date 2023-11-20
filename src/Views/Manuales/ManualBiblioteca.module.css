@@ -1,0 +1,73 @@
+/* Importar una fuente de Google Fonts en tu archivo CSS */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+.manualContainer {
+  font-family: 'Open Sans', sans-serif; /* Usar la fuente importada */
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  background-color: #fff;
+  color: #333;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px; /* Bordes redondeados */
+}
+
+.manualTitulo {
+  color: #2a7f62; /* Un color que represente tu marca o que sea visualmente atractivo */
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 2em; /* Un tamaño más grande para el título */
+  font-weight: 700; /* Fuente en negrita */
+}
+
+.manualTexto {
+  line-height: 1.6;
+  margin-bottom: 20px;
+  font-size: 1em; /* Un tamaño adecuado para lectura */
+  color: #444; /* Un color ligeramente más oscuro para el texto para mejorar el contraste */
+}
+
+/* Estilos para las listas */
+.manualTexto ul {
+  list-style-type: disc; /* O 'circle', 'square', 'decimal', etc. */
+  padding-left: 20px;
+}
+
+.manualTexto li {
+  margin-bottom: 10px;
+}
+
+/* Para títulos o subtítulos dentro del contenido */
+.manualSubtitulo {
+  font-size: 1.5em;
+  color: #2a7f62; /* El mismo color que el título para mantener coherencia */
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.manualImagen {
+  max-width: 100%; /* Ajusta la imagen para que no sobrepase el ancho del contenedor */
+  height: auto;
+  display: block;
+  margin: 20px auto; /* Centra la imagen horizontalmente */
+  border-radius: 4px; /* Bordes redondeados para la imagen */
+}
+
+.manualLista {
+  list-style-type: none; /* Quita las viñetas de los elementos de lista */
+  padding-left: 0; /* Elimina el padding predeterminado */
+}
+
+.manualListaItem {
+  background: #f9f9f9; /* Color de fondo suave para cada elemento de la lista */
+  border: 1px solid #eaecef; /* Borde sutil */
+  padding: 10px; /* Espacio dentro de cada elemento de lista */
+  margin-bottom: 8px; /* Margen entre elementos de lista */
+  border-radius: 4px; /* Bordes redondeados para los ítems */
+}
+
+.encabezado {
+  font-size: 1.5em; /* Tamaño de fuente para los encabezados */
+  color: #2a7f62; /* Color para los encabezados */
+  font-weight: 700; /* Fuente en negrita para los encabezados */
+}

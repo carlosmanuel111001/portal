@@ -1,0 +1,235 @@
+{
+    "manuales": [
+      {
+        "id": "navegacionRapida",
+        "titulo": "Manual de Usuario de Acceso a la Plataforma",
+        "secciones": [
+          {
+            "tipo": "imagen",
+            "src": "/logo.jpg"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "1. Accediendo a la Plataforma:"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "• Abre tu navegador preferido."
+          },
+          {
+            "tipo": "texto",
+            "contenido": "• Ingresa a la dirección web oficial de la plataforma."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/75.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "2. Inicio de Sesión:"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "• Localiza el botón o enlace que dice 'Iniciar Sesión' o 'Login'."
+          },
+          {
+            "tipo": "texto",
+            "contenido": "• Introduce tu nombre de usuario o dirección de correo electrónico."
+          },
+          {
+            "tipo": "texto",
+            "contenido": "• Ingresa tu contraseña."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/76.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Haz clic en 'Iniciar Sesión' o 'Entrar', o mandará directo al menú principal de la página."
+          },
+          {
+            "tipo": "texto",
+            "contenido": "2.1. Navegando en la Plataforma:"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Una vez dentro, utiliza el menú principal o la barra de navegación para moverte entre las diferentes secciones."
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Siempre asegúrate de cerrar sesión cuando hayas terminado, especialmente si estás en un dispositivo público o compartido."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/77.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "2.1.1 Evaluación"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "La opción de 'Evaluación' es solo para personal autorizado, el estudiante no tiene acceso a esta opción."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/78.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "2.1.2. Biblioteca"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "En la opción de biblioteca mostrará dos opciones donde se podrá ver la información que se desea acerca de los servicios que ofrece el apartado."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/79.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "• En el menú de 'Servicios por Unidad de Información' accede a la pantalla donde mostrará por unidad de información, los diferentes tipos de servicio que prestan."
+          },
+          {
+            "tipo": "texto",
+            "contenido": "• En el menú 'Consulta Bibliográfica', muestra la pantalla donde tendremos la opción de hacer nuestras consultas bibliográficas de los diferentes títulos que se encuentran en las diferentes unidades de información."
+          },
+          {
+            "tipo": "texto",
+            "contenido": "2.1.3. Portal estudiantil"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "En esta opción podrá navegar al menú principal del portal estudiantil de los estudiantes donde encontrarán la diferente información referente a la actividad académica. Se muestra la imagen principal del portal estudiantil."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/80.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "2.1.4. Ayuda SIGI"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Si tienes problemas o dudas, busca la sección 'Ayuda' o 'Contacto' en la plataforma para obtener asistencia donde se puede seleccionar el módulo para aclarar dudas, de igual manera en el apartado de descarga en la parte derecha se descargan reportes la información ya sea una opción de menú del módulo seleccionado o el módulo completo."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/81.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "2.1.4.1. Módulo de biblioteca"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Al dar clic en el módulo de biblioteca tendrá la opción de elegir en un menú que se muestra y seleccionar el módulo que desea para aclarar dudas del apartado de biblioteca."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/82.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "2.1.4.2. Modulo Evaluación"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Al seleccionar el módulo de evaluación no se podrá ver información ya que este solo personal autorizado."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/83.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "2.1.4.3. Portal Estudiantil"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "En el módulo del portal estudiantil se encontrarán las siguientes opciones de menú donde se podrá seleccionar la de preferencia y ver toda la información que proporciona."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/84.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Iniciar Sesión por Correo Institucional"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "La opción de 'Iniciar Sesión por Correo Institucional' es solo para personal autorizado."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/85.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "¿Olvidaste tu Contraseña?"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Para el olvido de contraseña tiene la opción de dirigirse a secretaria o dar clic en '¿Olvidaste tu contraseña?' de la pantalla de inicio de sesión, a como se ilustra en la siguiente imagen."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/86.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Al dar clic a dicha opción el sistema nos mostrará una pantalla como la ilustrada en la siguiente imagen, en la cual ingresaremos nuestro correo electrónico y luego daremos clic al botón 'Recuperar'."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/87.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "El sistema nos mostrará una pantalla similar a la ilustrada en la siguiente imagen, donde nos aparece nuestro correo electrónico, la pregunta secreta que registramos la primera vez que iniciamos sesión y el campo 'Respuesta secreta' donde ingresaremos la respuesta de nuestra pregunta secreta y posteriormente daremos clic al botón 'Recuperar'."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/88.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Si ingresamos la respuesta secreta de manera correcta, el sistema nos enviará un enlace a nuestro correo electrónico con las instrucciones para recuperar la contraseña y nos mostrará un mensaje como el siguiente:"
+          },
+          {
+            "tipo": "imagen",
+            "src": "/89.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Nota: Si el correo electrónico no le llega, revise la bandeja de correos no deseados. El contenido del correo es similar al ilustrado en la siguiente imagen y usted debe dar clic al enlace azul que dice 'aquí'."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/90.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Al dar clic en el enlace antes mencionado, se nos mostrará una pantalla como la ilustrada en la siguiente imagen, en donde ingresaremos la nueva contraseña en ambos cuadros de texto y posteriormente daremos clic al botón 'Restablecer contraseña'."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/91.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "El sistema nos mostrará una pantalla similar a la de la siguiente imagen y luego haremos clic en la opción 'Iniciar sesión' para ingresar al sistema con nuestra nueva contraseña."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/92.png"
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,246 @@
+{
+  "manuales": [
+    {
+      "id": "navegacion",
+      "titulo": "Manual de Usuario - Acceso a la Plataforma",
+      "secciones": [
+        {
+          "tipo": "imagen",
+          "src": "/logo.jpg"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "1. Accediendo a la Plataforma:"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Abre tu navegador preferido."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Ingresa a la dirección web oficial de la plataforma."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/55.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "2. Inicio de Sesión:"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Localiza el botón o enlace que dice 'Iniciar Sesión' o 'Login'."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Introduce tu nombre de usuario o dirección de correo electrónico."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Ingresa tu contraseña."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/56.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Haz clic en 'Iniciar Sesión' o 'Entrar', o mandará directo al menú principal de la página."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "2.1. Navegando en la Plataforma:"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Una vez dentro, utiliza el menú principal o la barra de navegación para moverte entre las diferentes secciones."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Siempre asegúrate de cerrar sesión cuando hayas terminado, especialmente si estás en un dispositivo público o compartido."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/57.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "2.1.1 Evaluación"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "La opción de 'Evaluación' es solo para personal autorizado, el estudiante no tiene acceso a esta opción."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Al dar clic en ella mostrará la siguiente pantalla en caso de que seas estudiante."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/58.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "2.1.2 Biblioteca"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "En la opción de biblioteca, se mostrarán dos opciones donde se podrá ver la información que se desea acerca de los servicios que ofrece el apartado."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• En el menú 'Servicios por Unidad de Información', accede a la pantalla donde mostrará por unidad de información, los diferentes tipos de servicio que prestan."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• En el menú 'Consulta Bibliográfica', muestra la pantalla donde tendrás la opción de hacer consultas bibliográficas de los diferentes títulos que se encuentran en las diferentes unidades de información."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/59.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "2.1.3 Portal Estudiantil"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "En esta opción, podrás navegar al menú principal del portal estudiantil de los estudiantes, donde encontrarás diferente información referente a la actividad académica. Se muestra la imagen principal del portal estudiantil."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/60.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "2.1.4 Ayuda SIGI"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Si tienes problemas o dudas, busca la sección 'Ayuda' o 'Contacto' en la plataforma para obtener asistencia, donde se puede seleccionar el módulo para aclarar dudas."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/61.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "2.1.4.1 Módulo de Biblioteca"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Al dar clic en el módulo de biblioteca, tendrás la opción de elegir en un menú que se muestra y seleccionar el menú que deseas para aclarar dudas del apartado de biblioteca."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/62.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "2.1.4.2 Módulo de Evaluación"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Al seleccionar el módulo de evaluación, no se podrá ver información ya que está reservado para personal autorizado."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/63.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "2.1.4.3 Portal Estudiantil"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "En el menú del portal estudiantil, encontrarás las siguientes opciones de menú donde podrás seleccionar la de preferencia y ver toda la información que proporciona."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/64.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "2.2. Iniciar Sesión por Correo Institucional"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "La opción de 'Iniciar Sesión por Correo Institucional' es solo para personal autorizado."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Al dar clic, mostrará la siguiente pantalla con un mensaje de autenticación."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/65.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Si das 'Conectar', retornará a una página donde te solicitarán un correo de autenticación. Los estudiantes no tienen acceso para navegar, solo personal autorizado."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/66.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "2.3. ¿Olvidaste tu Contraseña?"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Para el olvido de contraseña, tienes la opción de dirigirte a secretaría o dar clic en '¿Olvidaste tu contraseña?' de la pantalla de inicio de sesión, como se ilustra en la siguiente imagen."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/67.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Al dar clic en dicha opción, el sistema mostrará una pantalla donde ingresarás tu correo electrónico y luego darás clic al botón 'Recuperar'."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/68.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "El sistema mostrará una pantalla similar donde aparecerá tu correo electrónico, la pregunta secreta registrada la primera vez que iniciaste sesión y el campo 'Respuesta secreta' donde ingresarás la respuesta de tu pregunta secreta. Luego, darás clic al botón 'Recuperar'."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/69.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Si ingresaste la respuesta secreta correctamente, el sistema te enviará un enlace a tu correo electrónico con las instrucciones para recuperar la contraseña y mostrará un mensaje como el siguiente:"
+        },
+        {
+          "tipo": "imagen",
+          "src": "/70.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Nota: Si el correo electrónico no te llega, revisa la bandeja de correos no deseados. El contenido del correo es similar al ilustrado en la siguiente imagen y deberás dar clic al enlace azul que dice 'aquí'."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/71.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Al dar clic en el enlace mencionado, se mostrará una pantalla donde ingresarás la nueva contraseña en ambos cuadros de texto y posteriormente darás clic al botón 'Restablecer contraseña'."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/72.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "El sistema mostrará una pantalla similar y luego harás clic en la opción 'Iniciar sesión' para ingresar al sistema con tu nueva contraseña."
+        }
+      ]
+    }
+  ]
+}

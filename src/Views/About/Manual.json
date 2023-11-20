@@ -1,0 +1,30 @@
+{
+    "Manual Técnico": {
+      "Imagen": "/logo.jpg",
+      "Introducción": "InfoStudia emerge como una plataforma web esencial en el ámbito de la gestión académica, ofreciendo a los estudiantes una interfaz intuitiva y accesible. Su diseño permite un acceso rápido y eficiente a información crucial, facilitando la elaboración de informes personalizados. Esta herramienta digital se convierte en el corazón de la experiencia estudiantil, siendo un recurso estratégico para la optimización del tiempo y los recursos académicos. Al integrar tecnología avanzada, InfoStudia potencia la autonomía de los estudiantes y enriquece su trayectoria educativa.",
+      "Requerimientos Técnicos": {
+        "Requisitos de Instalación del Sistema": {
+          "Requisitos de Software": "Sistema Operativo: Compatible con Windows 7 o superior, macOS 10.10 (Yosemite) o superior, y distribuciones de Linux con soporte de interfaz gráfica.",
+          "Requisitos de Hardware": {
+            "Procesador": "Mínimo Dual Core 1.4 GHz.",
+            "Memoria RAM": "Mínimo 4 GB.",
+            "Tamaño de la Pantalla": "Resolución mínima de 1024x768 píxeles."
+          },
+          "Requisitos Adicionales": {
+            "Software": "Navegador: Últimas versiones de Google Chrome, Mozilla Firefox, Safari o Microsoft Edge.",
+            "Hardware": {
+              "Almacenamiento en Disco Duro": "Mínimo 1 GB de espacio libre.",
+              "Conexión a Internet": "Banda ancha con velocidad mínima de 5 Mbps para una experiencia de usuario fluida."
+            }
+          }
+        }
+      },
+      "Framework y Estándares Utilizados": {
+        "ReactJS": {
+          "Descripción": "React.js es una biblioteca de JavaScript de código abierto, primordial para el desarrollo de interfaces de usuario, especialmente diseñadas para aplicaciones web de página única. Se destaca por permitir la creación de componentes de interfaz de usuario (UI) reutilizables, facilitando el manejo de la capa de vista en aplicaciones web y móviles. Desarrollada inicialmente por Jordan Walke, ingeniero de software en Facebook, React fue implementada por primera vez en el News Feed de Facebook en 2011 y posteriormente en Instagram.com en 2012. Su enfoque modular y eficiente en el manejo del DOM virtual la convierte en una opción preferida para aplicaciones web modernas y ágiles.",
+          "Imagen": "/logo192.png"
+        }
+      }
+    }
+  }
+  

@@ -1,0 +1,76 @@
+/* ManualNavegacionRapida.module.css */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+.manualContainer {
+  font-family: 'Open Sans', sans-serif; /* Aplicando la fuente Open Sans */
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  color: #333;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.manualTitulo {
+  color: #2a7f62; /* Un color distintivo para el título */
+  font-size: 24px; /* Manteniendo el tamaño de fuente proporcionado */
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center; /* Centrando el título para darle énfasis */
+}
+
+.manualTexto {
+  line-height: 1.6; /* Aumentando el espaciado de línea para mejorar la legibilidad */
+  margin-bottom: 16px;
+  font-size: 16px; /* Manteniendo el tamaño de fuente proporcionado */
+  color: #444; /* Un tono más oscuro para mejorar la legibilidad */
+}
+
+.manualImagen {
+  max-width: 100%; /* Asegurando que la imagen sea responsiva */
+  height: auto;
+  margin-bottom: 16px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 4px; /* Bordes suavemente redondeados */
+}
+
+.manualLista {
+  list-style-type: disc; /* Estilo de viñetas para las listas */
+  padding-left: 40px; /* Aumentando el espacio para las viñetas */
+  margin-bottom: 16px;
+}
+
+.manualListaItem {
+  font-size: 16px; /* Manteniendo el tamaño de fuente proporcionado */
+  line-height: 1.6; /* Espaciado de línea para los elementos de la lista */
+  margin-bottom: 8px; /* Aumentando el margen inferior */
+}
+
+/* Si tienes subtítulos o secciones destacadas */
+.manualSubtitulo {
+  font-size: 1.5em;
+  color: #2a7f62; /* Usando el color del título para mantener la coherencia */
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+/* Para botones o enlaces de llamada a la acción */
+.boton {
+  background-color: #2a7f62; /* Color que coincide con el esquema de estilo */
+  color: white;
+  padding: 10px 20px;
+  border-radius: 20px; /* Bordes redondeados */
+  font-weight: bold;
+  text-align: center;
+  display: inline-block;
+  text-transform: uppercase; /* Texto en mayúsculas para un look distintivo */
+  margin-top: 10px;
+  transition: background-color 0.3s ease; /* Transición suave para cambios de color */
+}
+
+.boton:hover {
+  background-color: #216e4f; /* Un tono más oscuro para el efecto hover */
+}

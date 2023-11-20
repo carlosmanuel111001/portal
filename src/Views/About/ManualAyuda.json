@@ -1,0 +1,175 @@
+{
+    "manuales": [
+      {
+        "id": "ayuda",
+        "titulo": "Manual para el Módulo de Ayuda (logo) Ayuda SIGI",
+        "secciones": [
+          {
+            "tipo": "imagen",
+            "src": "/logo.jpg"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Dar clic en 'Ir al sitio' del módulo de Ayuda SIGI"
+          },
+          {
+            "tipo": "imagen",
+            "src": "/98.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Página principal del sistema de ayuda donde muestra en la parte un apartado que contiene unos módulos para aclarar dudas de la página de SIGI y en la parte izquierda mostrará una opción donde podrá descargar el módulo completo seleccionado o la parte del menú seleccionado del módulo."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/99.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Al seleccionar el módulo de 'Biblioteca', tendrás la opción de seleccionar el menú que deseas."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/100.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Vista de la opción 'Servicios por unidad de información' muestra la información sobre los diferentes tipos de servicios que prestan."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/101.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Luego la vista de la opción 'Consulta bibliográfica' donde muestra el proceso para hacer las consultas bibliográficas de los diferentes títulos que se encuentran en las diferentes unidades de información."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/102.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Módulo Portal Estudiante"
+          },
+          {
+            "tipo": "imagen",
+            "src": "/103.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Al dar clic en el módulo del portal estudiante, mostrará un menú donde podrá acceder a cada uno de ellos para ver la información de manejo de uso."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/104.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Al dar clic en 'perfil', mostrará un mensaje de bienvenida y la lista de las opciones del menú para navegar en cada una de ellas."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/105.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Al dar clic en 'historial de calificaciones', mostrará un manual de proceso de cómo visualizar e imprimir el historial de calificaciones del estudiante."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/106.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Al dar clic en 'Plan de estudio', mostrará el proceso en un manual del plan de estudio, como visualizar las respectivas notas de la carrera a la cual pertenece."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/107.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Al dar clic en 'Estado de cuenta', mostrará el proceso de cómo visualizar las cuentas pendientes que tenga."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/108.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Al dar clic en 'detalle de marca', podrá visualizar un manual donde explica el proceso de diferentes tipos de situaciones en las que un estudiante se puede ver implicado durante su período como estudiante en esta Universidad."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/109.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Al dar clic en 'Matrículas en línea', mostrará el proceso en un manual de cómo hacer el proceso de la matrícula."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/110.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Al dar clic en 'Historial de matrícula', mostrará el proceso de cómo ver todas las matrículas que ha hecho a lo largo de toda su carrera."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/111.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Al dar clic en 'Beca', mostrará el proceso de los pasos a seguir para la solicitud de Beca."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/112.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Al dar clic en 'Resultado de Ingreso', mostrará en un manual el proceso de cómo ver su hoja de resultados del examen de admisión o test psicométrico."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/113.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Al dar clic en 'Material de estudio', mostrará unos manuales de uso del portal estudiantil, en el caso del módulo de Ayuda SIGI no mostrará nada, la información está disponible solo desde el módulo del portal estudiantil."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/114.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Para el proceso de descarga, solo da clic en 'Descargar Ayuda' donde tendrá la opción de seleccionar si desea descargar el módulo completo o un menú del módulo."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/115.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Mostrará la siguiente pantalla de Visor de Reportes de Servicios por unidad de información."
+          },
+          {
+            "tipo": "imagen",
+            "src": "/116.png"
+          },
+          {
+            "tipo": "texto",
+            "contenido": "Al dar clic en 'Opción del menú seleccionado', mostrará un menú de la información que seleccionaste."
+          },
+          {
+            "tipo": "texto",
+            "contenido": "También la opción de 'Módulo Completo', al dar clic muestra la siguiente pantalla de opción de visor de reportes de menú: servicios bibliotecarios/servicios por unidad de información."
+          }
+        ]
+      }
+    ]
+  }
+  

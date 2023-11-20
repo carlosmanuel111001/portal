@@ -1,0 +1,77 @@
+/* ManualEvaluacion.module.css */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+.manualContainer {
+  font-family: 'Open Sans', sans-serif;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  max-width: 800px;
+}
+
+.manualTitulo {
+  color: #2a7f62;
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.manualTexto {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 16px;
+  color: #444;
+}
+
+.manualImagen {
+  max-width: 100%;
+  height: auto;
+  margin: 20px 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 4px;
+}
+
+.manualLista {
+  list-style-type: disc;
+  padding-left: 40px;
+  margin-bottom: 16px;
+}
+
+.manualListaItem {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 8px;
+  color: #444;
+}
+
+/* Si tienes subtítulos dentro de tu contenido */
+.manualSubtitulo {
+  font-size: 1.5em;
+  color: #2a7f62;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+/* Para botones o enlaces de llamada a la acción */
+.boton {
+  background-color: #2a7f62;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-weight: bold;
+  text-align: center;
+  display: inline-block;
+  text-transform: uppercase;
+  margin-top: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.boton:hover {
+  background-color: #216e4f;
+}

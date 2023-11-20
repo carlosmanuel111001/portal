@@ -1,0 +1,571 @@
+{
+  "manuales": [
+    {
+      "id": "usuario",
+      "titulo": "Manual de Usuario del Perfil Estudiantil",
+      "secciones": [
+        {
+          "tipo": "imagen",
+          "src": "/logo.jpg"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "¡Bienvenido al Portal del Estudiante!"
+        },
+        {
+          "tipo": "imagen",
+          "src": "/1.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "En este portal encontrará las siguientes opciones de menú:"
+        },
+        {
+          "tipo": "lista",
+          "contenido": [
+            "Perfil del estudiante",
+            "Historial Académico",
+            "Plan de estudio",
+            "Estado de cuenta",
+            "Detalles de marcas",
+            "Matriculas en Línea",
+            "Historial de matriculas",
+            "Solicitud de becas",
+            "Resultado de ingreso"
+          ]
+        },
+        {
+          "tipo": "texto",
+          "contenido": "1. Perfil del estudiante (encabezado): Esta opción del menú nos brinda acceso a la pantalla donde se muestra la información general del estudiante que inició sesión y que se encuentra registrada en el Sistema de Registro Académico."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/2.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Una vez seleccionamos dicha opción del menú se nos mostrará una pantalla con la información del estudiante, a como se aprecia en la siguiente imagen."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/3.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "2. Historial de Calificaciones: Esta opción del menú permite visualizar e imprimir el historial de calificaciones del estudiante que inició sesión. Para acceder seleccionaremos en el menú principal la opción 'Historial de Calificaciones'."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/4.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Una vez seleccionemos dicha opción del menú se nos mostrará una pantalla similar a la ilustrada en la siguiente imagen."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/5.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "En la parte superior de la pantalla nos aparece la información del estudiante y en la parte de abajo se nos muestra una tabla con la información de las asignaturas que el estudiante ha cursado, dicha información comprende: la facultad donde el estudiante llevó la asignatura, la carrera, el tipo (ordinaria, verano, paralelo), el grupo, el plan académico, el código y la descripción de la carrera, la nota final y la nota del especial (en caso que haya hecho examen especial)."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• En la opción número 1 podemos filtrar las asignaturas según el periodo, es decir, el año y el semestre."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• En la opción 2 podemos filtrar las asignaturas según la carrera (en caso que el estudiante haya estado en más de una carrera)."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• En la opción 3 podemos imprimir el historial."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• En la opción 4 podemos ver las asignaturas en cada página, la cantidad de páginas depende de la cantidad de asignaturas que el alumno haya llevado, mostrándose hasta un máximo de 10 asignaturas por página."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "3. Plan de estudio: En esta opción del menú el usuario tendrá acceso a ver su plan de estudio con sus respectivas notas de la carrera a la cual pertenece. Para acceder a esta opción nos dirigimos a la opción 'Plan de Estudio'."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/6.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Una vez seleccionemos dicha opción del menú se nos mostrará una pantalla similar a la ilustrada en la siguiente imagen."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/7.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "En la parte superior de la pantalla nos aparece la información del estudiante y en la parte de abajo se nos muestra una tabla con la información de las asignaturas que el estudiante ha cursado, dicha información comprende: la facultad donde el estudiante llevó la asignatura, la carrera, el tipo (ordinaria, verano, paralelo), el grupo, el plan académico, el código y la descripción de la carrera, la nota final y la nota del especial (en caso que haya hecho examen especial)."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "1. En la opción número 1 podemos filtrar las asignaturas según el periodo, es decir, el año y el semestre."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "2. En la opción 2 podemos filtrar las asignaturas según la carrera (en caso que el estudiante haya estado en más de una carrera)."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "3. En este punto se le muestra la información del semestre, las asignaturas, los requisitos y las notas obtenidas."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "4. Asignaturas totales: Es la cantidad de asignaturas con las que cuenta la carrera."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "5. Total de notas aprobadas: Esto no es más que la cantidad de notas que el estudiante ha aprobado, es decir la suma total de todas sus notas."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "6. Total asignaturas aprobadas: Esto indica la cantidad de asignaturas que el estudiante ha aprobado."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "7. Promedio de asignaturas aprobadas: Esto indica la nota promedio que ha sacado en cada asignatura que ha aprobado."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "8. Asignaturas pendientes: Es la cantidad de asignaturas que le faltan a un estudiante para concluir su plan de estudio."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "3. Plan de estudio"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "En esta opción del menú el usuario tendrá acceso a ver su plan de estudio con sus respectivas notas de la carrera a la cual pertenece. Para acceder a esta opción nos dirigimos a la opción 'Plan de Estudio'."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/8.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Una vez que se eligió esta opción se nos mostrará una pantalla con una serie de campos como el que se muestra a continuación."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/9.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "1. En este espacio podemos filtrar las notas del plan de estudio por carrera, en caso que el estudiante haya estado en más de una carrera."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "2. Aquí podemos imprimir nuestro plan de estudio o guardarlo en archivo pdf."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "3. En este punto se le muestra la información del semestre, las asignaturas, los requisitos y las notas obtenidas."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "4. Asignaturas totales: Es la cantidad de asignaturas con las que cuenta la carrera."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "5. Total de notas aprobadas: Esto no es más que la cantidad de notas que el estudiante ha aprobado, es decir la suma total de todas sus notas."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "6. Total asignaturas aprobadas: Esto indica la cantidad de asignaturas que el estudiante ha aprobado."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "7. Promedio de asignaturas aprobadas: Esto indica la nota promedio que ha sacado en cada asignatura que ha aprobado."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "8. Asignaturas pendientes: Es la cantidad de asignaturas que le faltan a un estudiante para concluir su plan de estudio."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "4. Estado de cuenta"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Esta opción en el menú le brinda información al estudiante sobre su estado de cuenta. Para acceder a esta opción debemos dirigirnos a la opción 'Estado de Cuenta'."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/10.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Una vez que se eligió esta opción se nos mostrará una pantalla con una serie de campos. En caso de que el estudiante no tenga un crédito pendiente por pagar, se le mostrará esta pantalla."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/11.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "En caso de que el estudiante tenga un crédito que la universidad le dio, la pantalla que se le mostrará será una parecida a esta."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/12.jpg"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "A como puedes observar la información que se te presenta es sobre el crédito que se le dio al estudiante, así mismo la fecha en la que fue emitido el préstamo así mismo el número de recibo, concepto, la cantidad prestada, abonos que ha hecho para amortizar la deuda y el saldo pendiente."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "5. Detalle de Marcas"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Las Marcas representan diferentes tipos de situaciones en las que un estudiante se puede ver implicado durante su período como estudiante en esta Universidad, cada marca tiene un determinado nivel de gravedad y en dependencia del nivel el estudiante podría verse imposibilitado de realizar su matrícula hasta que la o las marcas hayan sido removidas."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Por ejemplo, un estudiante con beca interna podría tener como marca que tiene asignado un colchón y no lo ha regresado, o un estudiante independientemente de si es becado o no podría tener como marca que tiene libros pendientes que regresar en la biblioteca. También hay marcas relacionadas meramente con lo académico, por ejemplo, una marca podría ser 'Pérdida de carrera', 'Matrícula Suspendida', 'Fraude de notas', etc."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/13.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Una vez seleccionada dicha opción del menú, se nos mostrará una pantalla similar a la ilustrada en la siguiente imagen."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/14.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "En caso que el estudiante tenga una o más marcas deberá dirigirse a la Facultad a la que pertenece para verificar el porqué de dicha marca y solicitar se remuevan en caso que sea posible."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "6. Matrícula en Línea"
+        },
+        {
+          "tipo": "imagen",
+          "src": "/15.jpg"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Al ingresar al Portal del estudiante, da clic en el menú 'Matrícula en Línea'. Se mostrarán los cuatro pasos a seguir."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/16.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• En el paso uno se muestra la información académica del estudiante."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Seleccione su situación laboral."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/17.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• En el paso dos se muestra el pago de matrícula realizado en el banco o en tesorería."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Damos clic en el botón siguiente."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/18.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• En el paso tres se detallan las asignaturas del grupo en el que está inscrito, si no aparece se busca el grupo."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Seleccionamos las asignaturas que inscribirá de una en una o damos clic en el botón inscribir grupo."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Damos clic en el botón guardar matrícula."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• En el caso que inscriba una asignatura electiva, de clic en el botón electivas y le mostrará la siguiente pantalla."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/19.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Seleccionamos la Facultad."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Seleccionamos la Carrera."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Damos clic en el signo de más a la par de la asignatura."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Damos clic en el botón cerrar."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/20.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Verificamos que la asignatura electiva seleccionada aparezca en la lista."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Damos clic en guardar matrícula."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/21.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Nos muestra este mensaje que la matrícula se realizó con éxito."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Damos clic en 'Imprimir hoja de matrícula.'"
+        },
+        {
+          "tipo": "imagen",
+          "src": "/22.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "7. Historia de Matricula"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "En esta opción del menú le permite al usuario ver todas las matrículas que ha hecho a lo largo de toda su carrera. Para acceder a esta opción del menú debemos dirigirnos a la opción 'Historial de Matrícula.'"
+        },
+        {
+          "tipo": "imagen",
+          "src": "/23.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Una vez que se eligió esta opción se nos mostrará una pantalla con una serie de campos como el que se muestra a continuación:  ."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/24.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "1. Fecha en la que fue hecha la matrícula."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "2. El periodo en el cual corresponde (año y semestre)."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "3. Tipo de matrícula."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "4. Opción para imprimir hoja de matrícula."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "5. Opción para imprimir horario de clases."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "6. Opción para imprimir solicitud de beca en caso de haber solicitado."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Si oprimes el botón 'Imprimir', se te mostrará tu hoja de matrícula el cual será muy parecida a la que se le muestra a continuación:"
+        },
+        {
+          "tipo": "imagen",
+          "src": "/25.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "1. La primera opción nos permite guardar el informe en nuestra PC, como archivo PDF."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "2. La segunda opción nos permite imprimir el informe."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/26.png"
+        },      
+        {
+          "tipo": "imagen",
+          "src": "/27.png"
+        }, 
+        {
+          "tipo": "texto",
+          "contenido": "8. Beca"
+        },
+        {
+          "tipo": "imagen",
+          "src": "/28.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Al ingresar al portal del estudiante, damos clic en el menú 'Beca.'"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Nos muestra los pasos a seguir para la solicitud de Beca."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• En el paso uno nos detalla los datos personales del estudiante."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Seleccionamos la operadora del celular y la clase de celular, son requisitos solicitados."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Digitamos el número de celular."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Digitamos el nombre y apellido del beneficiario."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/29.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Damos clic en el botón siguiente."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/30.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• En el paso dos nos muestra los datos académicos del estudiante."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Seleccionamos el tipo de beca que solicitará."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Damos clic en el botón siguiente."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/31.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• En el paso tres ingresamos los datos de la situación familiar y socioeconómica."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Damos clic en el botón siguiente."
+        },
+        {
+          "tipo": "imagen",
+          "src": "/32.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• En el paso cuatro nos detalla una lista de padecimientos de salud que una persona puede tener. Si posee alguna, selecciona una."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Damos clic en el botón 'Guardar Solicitud de Beca.'"
+        },
+        {
+          "tipo": "imagen",
+          "src": "/33.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Damos clic en el botón 'Confirmar.'"
+        },
+        {
+          "tipo": "imagen",
+          "src": "/34.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Damos clic en el botón 'OK.'"
+        },
+        {
+          "tipo": "imagen",
+          "src": "/35.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Nos muestra un mensaje de 'Solicitud de Beca Realizada.'"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "• Damos clic en el botón 'Imprimir Solicitud de Beca.'"
+        },
+        {
+          "tipo": "imagen",
+          "src": "/36.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "Resultado de Ingreso"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "En esta opción del menú le permite al usuario ver su hoja de resultados del examen de admisión o test psicométrico. Para acceder a esta opción del menú debemos dirigirnos a la opción 'Resultado de Ingreso.'"
+        },
+        {
+          "tipo": "imagen",
+          "src": "/37.png"
+        },
+        {
+          "tipo":"texto",
+          "contenido": "Una vez que se eligió esta opción se nos mostrará una pantalla como el que se muestra a continuación:  "
+        },
+        {
+          "tipo": "imagen",
+          "src": "/38.png"
+        },
+        {
+          "tipo": "texto",
+          "contenido": "1. Opción que nos permite guardar nuestra hoja de resultados en archivo PDF."
+        },
+        {
+          "tipo": "texto",
+          "contenido": "2. Opción que nos permite imprimir nuestra hoja de resultados."
+        }
+        
+        
+        
+      ]
+    }
+  ]
+}

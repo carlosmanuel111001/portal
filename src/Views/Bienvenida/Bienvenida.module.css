@@ -1,0 +1,75 @@
+.contenedor {
+    max-width: 100%;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    background-color: #ffffff;
+  }
+  
+  .encabezado {
+    background-color: #0a3d62;
+    color: #f5f6fa;
+    padding: 20px;
+    border-radius: 20px 20px 0 0;
+  }
+  
+  .logoContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .logo {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 50%;
+  }
+  
+  .tituloContainer {
+    text-align: center;
+  }
+  
+  .titulo {
+    font-size: 2.4em;
+    margin: 0;
+    font-weight: 600;
+    color: #e58e26;
+  }
+  
+  .subtitulo {
+    font-size: 1.2em;
+    margin: 10px 0 0 0;
+    color: #e58e26;
+  }
+  
+  .cuerpo {
+    padding: 20px;
+  }
+  
+  .textoPrincipal {
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
+  .botonPrincipal {
+    display: inline-block;
+    padding: 12px 36px;
+    background-color: #0a3d62;
+    color: #f5f6fa;
+    text-decoration: none;
+    border-radius: 50px;
+    font-weight: 600;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+  }
+  
+  .botonPrincipal:hover {
+    background-color: #0c2461;
+  }
+  
