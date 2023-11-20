@@ -17,55 +17,74 @@ function Main() {
 
     const doc = new jsPDF();
     let y = 10; // La posición inicial en el eje Y para el texto
-    // Añade una sección de título con control de espacio
+
+    const marginLeft = 20; // Margen izquierdo
+    const marginRight = 20; // Margen derecho
+    const pageWidth = doc.internal.pageSize.getWidth();
+    const contentWidth = pageWidth - marginLeft - marginRight;
+
+    // Añade una sección de título con control de espacio y color
     const addSectionTitle = (title) => {
       if (y > 280) {
         doc.addPage();
         y = 10;
       }
-;
-    if (typeof title !== 'string') {
-      console.error('El título proporcionado no es una cadena de texto:', title);
-      return; // Salir de la función si el título no es válido
-    }
-  
-    doc.text(title, 10, y);
-    y += 6;
-  };
+      if (typeof title !== 'string') {
+        console.error('El título proporcionado no es una cadena de texto:', title);
+        return;
+      }
+    
+      doc.setFontSize(14);
+      doc.setTextColor(100, 0, 0); // Color rojo para el título
+      doc.setFont("helvetica", "bold");
+      doc.text(title, marginLeft, y); // Inicia el texto desde el margen izquierdo
+      doc.setTextColor(0, 0, 0); // Volver al color negro para el texto normal
+      y += 6;
+    };
 
     // Añade un párrafo de texto con control de espacio
     const addParagraph = (text) => {
       doc.setFontSize(12);
       doc.setFont("helvetica", "normal");
-      // Asegúrate de que el ancho del texto sea menor que el ancho de la página menos los márgenes
-      const lines = doc.splitTextToSize(text, 180); // Ajusta esto según el tamaño de tu página y los márgenes deseados
+      const lines = doc.splitTextToSize(text, contentWidth); 
       lines.forEach((line) => {
         if (y > 280) {
           doc.addPage();
           y = 10;
         }
-        doc.text(line, 10, y);
-        y += 5;
+        // Asegurar que el texto se ajusta al ancho de contenido y no sobrepasa el margen derecho
+        doc.text(line, marginLeft, y, { maxWidth: contentWidth, align: 'justify' }); 
+        y += 6;
       });
-      y += 5; // Espacio adicional después de un párrafo
+      y += 5;
     };
+    
+    
 
     // Añade una lista con viñetas con control de espacio
     const addBulletedList = (items) => {
       items.forEach((item) => {
-        // Verifica si el texto se cortará al agregarlo y, si es así, agrega una nueva página
-        if (y + 10 > 280) { // Ajusta el valor 10 según sea necesario para el espacio entre elementos de la lista
+        if (y + 10 > 280) {
           doc.addPage();
           y = 10;
         }
         doc.setFontSize(12);
         doc.setFont("helvetica", "normal");
-        // Añade el elemento de la lista
-        doc.text(`- ${item}`, 15, y);
-        y += 5; // Espacio entre elementos de la lista
+        const bulletOffset = 5; // Espacio para la viñeta
+    
+        // Divide el texto de cada ítem para que se ajuste dentro del ancho del contenido
+        const itemLines = doc.splitTextToSize(item, contentWidth - bulletOffset); 
+        itemLines.forEach((line, index) => {
+          // Solo añade la viñeta en la primera línea de cada ítem
+          const text = index === 0 ? `- ${line}` : line;
+          doc.text(text, marginLeft + bulletOffset, y);
+          y += 5;
+        });
       });
-      y += 5; // Espacio adicional después de la lista
+      y += 5;
     };
+    
+
     // Añade el título principal
     doc.setFontSize(22);
     doc.setFont("helvetica", "bold");
